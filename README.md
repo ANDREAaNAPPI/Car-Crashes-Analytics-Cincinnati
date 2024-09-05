@@ -10,5 +10,5 @@ Here you can find:
   The data comes from data.cincinnati-oh.gov, and you can also find the data on kaggke, [here](https://www.kaggle.com/datasets/steverusso/cincinnati-car-crash-data)
 
 
-![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/What-Are-The-Odds-Of-Dying-In-A-Car-Crash.jpg)
+![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/Auto-ongeluk.jpg)
 
