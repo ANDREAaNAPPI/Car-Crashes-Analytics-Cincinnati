@@ -8,3 +8,7 @@ Here you can find:
   without mentioning unnecessary technical details.
 - [The data I have been working on](https://github.com/ANDREAaNAPPI/Car-Crashes-Analytics-Cincinnati/blob/main/Cincinnati_CC.zip)
   The data comes from data.cincinnati-oh.gov, and you can also find the data on kaggke, [here](https://www.kaggle.com/datasets/steverusso/cincinnati-car-crash-data)
+
+
+![image](https://github.com/ANDREAaNAPPI/Werhouse-of-stuff/blob/main/What-Are-The-Odds-Of-Dying-In-A-Car-Crash.jpg)
+
